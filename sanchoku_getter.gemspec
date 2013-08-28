@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = SanchokuGetter::VERSION
   spec.authors       = ["Yasuhiro Ota"]
   spec.email         = ["ya-ota@mfeed.ad.jp"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{this tools is sanchoku getter}
+  spec.summary       = %q{sanchoku site is serialize}
   spec.homepage      = ""
   spec.license       = "MIT"
 
